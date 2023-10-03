@@ -15,7 +15,7 @@ prime
 parts
 *.snap
 *.pyc
-ripgrep*_source.tar.bz2
+ripgrep*_source.tar.bz3
 
 # Cargo timings
 cargo-timing-*.html
